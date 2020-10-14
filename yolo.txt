@@ -2,3 +2,5 @@ Wall
 Fan
 Laptop
 Headphone
+Light
+
